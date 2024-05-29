@@ -1,0 +1,13 @@
+﻿#EXTM3U8
+
+#EXTINF:-1,CCTV-1高清
+http://zhaoming10233.asuscomm.com:8585/udp/239.93.0.58:5140
+
+#EXTINF:-1,CCTV-2高清
+http://zhaoming10233.asuscomm.com:8585/udp/239.93.1.23:6000
+
+#EXTINF:-1,CCTV-3高清
+http://zhaoming10233.asuscomm.com:8585/udp/239.93.0.109:5140
+
+#EXTINF:-1,CCTV-4高清
+http://zhaoming10233.asuscomm.com:8585/udp/239.93.1.105:5140
