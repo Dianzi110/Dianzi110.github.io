@@ -4,7 +4,7 @@
 http://zhaoming10233.asuscomm.com:8585/udp/239.93.0.58:5140
 
 
-#EXTINF:-1 tvg-name="CCTV2" group-title="•央视「IPV6」",CCTV2「IPV6」 http://zhaoming10233.asuscomm.com:8585/udp/239.93.1.23:6000
+#EXTINF:-1 tvg-name="CCTV" group-title="•央视「IPV6」",CCTV2「IPV6」 http://zhaoming10233.asuscomm.com:8585/udp/239.93.1.23:6000
 
 #EXTINF:-1 tvg-name="CCTV3" group-title="•央视「IPV6」",CCTV3「IPV6」
 http://zhaoming10233.asuscomm.com:8585/udp/239.93.0.109:5140
